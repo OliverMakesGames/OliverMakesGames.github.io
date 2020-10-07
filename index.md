@@ -23,7 +23,7 @@ Video Game Title
 
 **Bold** and _Italic_ and `Code` text
 
-###Build a community
+### Build a community
 
 [Link](url) and ![Image](src)
 ```
