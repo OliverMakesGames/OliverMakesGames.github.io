@@ -1,8 +1,5 @@
 ## Oliver Makes Games
->Game Development
-Oliver loves videogames, educated by video games
-
-Second paragraph about loving videogames
+> Game Development
 
 ### Currently working on
 
