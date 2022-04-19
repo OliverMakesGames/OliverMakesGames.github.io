@@ -3,7 +3,7 @@
 
 ### Currently working on
 
-We always have a project underway
+// gif
 
 ```markdown
 Video Game Title
