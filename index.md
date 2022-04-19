@@ -1,19 +1,14 @@
-## Oliver Makes Games
-> Game Development
-
-### Currently working on
-
 ![Book logo](/Animation1.gif)
 
 ```markdown
 Video Game Title
 
-# Something in paradise
+# Something something in paradise
 
 - Bulleted
 - List
 
-## Make friends
+## Some other stuff
 
 1. Numbered
 2. List
