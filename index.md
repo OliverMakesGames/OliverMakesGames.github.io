@@ -25,8 +25,9 @@ Video Game Title
 [Link](url) and ![Image](src)
 ```
 
-### Jekyll Themes
+### Social media icon links
 
+(facebook, imgur, reddit, discord, steam, twitch, youtube, twitter)
 
 ### Contact
 
