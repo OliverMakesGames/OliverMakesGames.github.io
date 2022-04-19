@@ -3,7 +3,7 @@
 
 ### Currently working on
 
-![Book logo](/least-github-pages/assets/logo.gif)
+![Book logo](/Animation1.gif)
 
 ```markdown
 Video Game Title
