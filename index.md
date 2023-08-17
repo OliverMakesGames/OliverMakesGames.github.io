@@ -4,14 +4,15 @@ layout: default
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+In a world saturated with games, we stand apart. Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, get ready to embark on a journey that will redefine your gaming experience.
 
 ## Something something something we make games
 
->   In a world saturated with games, we stand apart. Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, get ready to embark on a journey that will redefine your gaming experience.
 
 
-### (TBA) Lost Animals: A wholesome farming adventure
+
+###  (TBA)   Lost Animals
+>   A Wholesome Farming Adventure
 
 ![Banner](/assets/img/BG.png)
 
