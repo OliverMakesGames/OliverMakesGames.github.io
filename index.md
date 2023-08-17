@@ -14,7 +14,7 @@ In a world saturated with games, we stand apart. Our team of dedicated creators 
   Full release announcment Q3 2023
 ```
 
-|:-------------|:-------|
+* * *
 
 #### Header 4
 
@@ -30,12 +30,13 @@ In a world saturated with games, we stand apart. Our team of dedicated creators 
 
 ###### Header 6
 
-| head1        | head two          | three |
+| Social       | Ready?            | Link  |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Steam        | Q3                |       |
+| YouTube      | Q3                |       |
+| Twitter      | Q3                |       |
+| Discord      | Q4                |       |
+| Twitch       | Q1 2024           |       |
 
 ### There's a horizontal rule below this.
 
@@ -48,55 +49,8 @@ In a world saturated with games, we stand apart. Our team of dedicated creators 
 *   Item baz
 *   Item zip
 
-### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+Footnote (C)
 ```
