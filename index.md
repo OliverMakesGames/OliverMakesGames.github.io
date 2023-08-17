@@ -1,5 +1,7 @@
 ---
 layout: default
+Title: Oliver Makes Games
+Description:  
 ---
 
 In a world saturated with games, we stand apart. Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, get ready to embark on a journey that will redefine your gaming experience.
