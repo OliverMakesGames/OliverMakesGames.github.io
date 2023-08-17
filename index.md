@@ -4,7 +4,7 @@ layout: default
 
 #  
 
-# Upcoming Games:
+## Upcoming Games:
 
 ![Banner](/assets/img/BG.png)
 
