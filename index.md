@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Oliver Makes Games
 ---
 
 #  
