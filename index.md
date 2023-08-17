@@ -8,8 +8,9 @@ In a world saturated with games, we stand apart. Our team of dedicated creators 
 
 # Upcoming Games:
 
-## Lost Animals: A Wholesome Farming Adventure
 ![Banner](/assets/img/BG.png)
+
+## Lost Animals: A Wholesome Farming Adventure
 
 ```js
   Full release announcment Q3 2023
