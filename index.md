@@ -5,7 +5,6 @@ description:   
 
 #  
 
-## Upcoming Games:
 
 ![Banner](/assets/img/BG.png)
 
@@ -13,22 +12,15 @@ description:   
 
 ```js
   Full release announcment Q3 2023
-  Steam:
+  
+
 ```
 
-* * *
+* * * 
 
-#### Header 4
+#### IN A WORLD
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+... saturated with games, we stand apart. Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, get ready to embark on a journey that will redefine your gaming experience.
 
 ###### Header 6
 
@@ -40,20 +32,11 @@ description:   
 | Discord      | Q4                |Not Ready|
 | Twitch       | Q1 2024           |Probably never gonna  |
 
-### There's a horizontal rule below this.
+### Check out our socials!
 
 * * *
 
-### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-* * *
-
-In a world saturated with games, we stand apart. Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, get ready to embark on a journey that will redefine your gaming experience.
 
 ```
 Footnote (C)
