@@ -2,13 +2,13 @@
 layout: default
 ---
 
-### Something something something we make games
+### OliverMakesGames
 
 In a world saturated with games, we stand apart. Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, get ready to embark on a journey that will redefine your gaming experience.
 
 
 
-# <div> (TBA)   Lost Animals </div>
+# Lost Animals
 >   A Wholesome Farming Adventure
 
 ![Banner](/assets/img/BG.png)
