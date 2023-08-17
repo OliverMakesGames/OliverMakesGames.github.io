@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
 ## Something something something we make games
 
 >   In a world saturated with games, we stand apart. Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, get ready to embark on a journey that will redefine your gaming experience.
@@ -13,18 +17,10 @@ layout: default
 
 ```js
 // Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+  A box goes here cause it looks like
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+|:-------------|
 
 #### Header 4
 
