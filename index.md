@@ -4,8 +4,6 @@ Title: Oliver Makes Games
 Description:  
 ---
 
-In a world saturated with games, we stand apart. Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, get ready to embark on a journey that will redefine your gaming experience.
-
 # Upcoming Games:
 
 ![Banner](/assets/img/BG.png)
@@ -14,6 +12,7 @@ In a world saturated with games, we stand apart. Our team of dedicated creators 
 
 ```js
   Full release announcment Q3 2023
+  Steam:
 ```
 
 * * *
@@ -34,7 +33,7 @@ In a world saturated with games, we stand apart. Our team of dedicated creators 
 
 | Social       | Ready?            | Status|
 |:-------------|:------------------|:------|
-| Steam        | Q3                |[Link to another page]=
+| Steam        | Q3                | TBA |
 | [YouTube](https://www.youtube.com/channel/UC0XdaCA-zPShdqIptghatgg)      | Q3                |Empty|
 | Twitter      | Q3                |Empty   |
 | Discord      | Q4                |Not Ready|
@@ -51,7 +50,9 @@ In a world saturated with games, we stand apart. Our team of dedicated creators 
 *   Item baz
 *   Item zip
 
+* * *
 
+In a world saturated with games, we stand apart. Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, get ready to embark on a journey that will redefine your gaming experience.
 
 ```
 Footnote (C)
