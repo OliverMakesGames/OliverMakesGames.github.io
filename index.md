@@ -1,28 +1,16 @@
-![Book logo](/Animation1.gif)
 
-```markdown
-Video Game Title
 
-# Something something in paradise
 
-- Bulleted
-- List
+### Lost Animals: A wholesome farming adventure
 
-## Some other stuff
+Lost Animals is a charming and engaging single player video game that allows players to experience the joys of running their own virtual farm. Set in a colourful and whimsical world full of secrets, the players will plant crops, raise adorable animals, heal their environment, and create a thriving rural paradise
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-### Build a community
-
-[Link](url) and ![Image](src)
+```
 ```
 
 ### Social media icon links
 
-(facebook, imgur, reddit, discord, steam, twitch, youtube, twitter)
+(todo) discord, steam, youtube, twitter
 
 ### Contact
 
