@@ -1,24 +1,20 @@
 ---
 layout: default
+title: Oliver Makes Games
 ---
-
-### OliverMakesGames
 
 In a world saturated with games, we stand apart. Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, get ready to embark on a journey that will redefine your gaming experience.
 
+# Upcoming Games:
 
-
-# Lost Animals
->   A Wholesome Farming Adventure
-
+## Lost Animals: A Wholesome Farming Adventure
 ![Banner](/assets/img/BG.png)
 
 ```js
-// Javascript code with syntax highlighting.
-  A box goes here cause it looks like
+  Full release announcment Q3 2023
 ```
 
-|:-------------|
+|:-------------|:-------|
 
 #### Header 4
 
