@@ -8,7 +8,7 @@ In a world saturated with games, we stand apart. Our team of dedicated creators 
 
 
 
-#  (TBA)   Lost Animals
+# <div> (TBA)   Lost Animals </div>
 >   A Wholesome Farming Adventure
 
 ![Banner](/assets/img/BG.png)
