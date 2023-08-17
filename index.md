@@ -22,7 +22,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Lost Animals: A wholesome farming adventure
 
-![Banner](/assets/BG.png)
+![Banner](/assets/img/BG.png)
 
 ```js
 // Javascript code with syntax highlighting.
