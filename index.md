@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+  In a world saturated with games, we stand apart. Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, get ready to embark on a journey that will redefine your gaming experience.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -20,7 +20,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Lost Animals: A wholesome farming adventure
+
+![Banner](/assets/BG.png)
 
 ```js
 // Javascript code with syntax highlighting.
