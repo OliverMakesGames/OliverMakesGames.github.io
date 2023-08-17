@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Oliver Makes Games
 ---
 
 In a world saturated with games, we stand apart. Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, get ready to embark on a journey that will redefine your gaming experience.
@@ -30,13 +29,13 @@ In a world saturated with games, we stand apart. Our team of dedicated creators 
 
 ###### Header 6
 
-| Social       | Ready?            | Link  |
+| Social       | Ready?            | Status|
 |:-------------|:------------------|:------|
-| Steam        | Q3                |       |
-| YouTube      | Q3                |       |
-| Twitter      | Q3                |       |
-| Discord      | Q4                |       |
-| Twitch       | Q1 2024           |       |
+| Steam        | Q3                |[Link to another page]=
+| [YouTube](https://www.youtube.com/channel/UC0XdaCA-zPShdqIptghatgg)      | Q3                |Empty|
+| Twitter      | Q3                |Empty   |
+| Discord      | Q4                |Not Ready|
+| Twitch       | Q1 2024           |Probably never gonna  |
 
 ### There's a horizontal rule below this.
 
