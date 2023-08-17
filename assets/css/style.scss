@@ -7,6 +7,6 @@
   display: none !important;
 }
 
-header:
-  image: /assets/BG.png;
-  overlay_color: "#FFF";
+header {
+  background-image: url('{{ site.baseurl }}/assets/BG.png');
+}
