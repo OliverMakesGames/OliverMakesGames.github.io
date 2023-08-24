@@ -12,9 +12,11 @@ description:   
   Lost Animals is a charming and engaging single player video game that allows players to experience the joys of running their own virtual farm. Set in a colourful and whimsical world full of secrets, the players will plant crops, raise adorable animals, heal their environment, and create a thriving rural paradise. The game falls within the casual and farm-simulation genres, targeting a broad audience of players who enjoy relaxing gameplay experiences or imagine a world where we can be more connected to our work and the land we live on. The project scope aims for a compact yet immersive game that provides hours of entertainment. 
 
 ```js
- Target platform will be windows-PC (steam store.) We plan on porting lost animals to switch then linux & MacOS
- 
+ Target platform will be windows-PC Steam
+ We plan on porting lost animals to switch then linux & MacOS
+    
   Full release announcment Q3 2023
+  
 ```
 
 * * * 
