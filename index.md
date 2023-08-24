@@ -32,7 +32,7 @@ description:   
 
 ### About us:
 
-We're a small team intending to make a ton of great games! Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, we are ready to redefine indie gaming.
+We're a small team intending to make a ton of great games! Our  dedicated team is fueled by the desire to break barriers and push the limits of gaming of what's possible in gaming! From epic quests to mind-bending puzzles, we are ready to redefine indie gaming
 
 ##### Free free to contact me at OliverMakesGames@gmail.com with any inquires or mod applications
 
