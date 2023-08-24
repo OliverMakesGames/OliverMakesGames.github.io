@@ -36,10 +36,11 @@ description:   
 
 #### About us:
 
+
 ###### We're a small team intending to make a ton of great games! Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, we are ready to redefine indie gaming.
+
 
 * * * 
 
-```
-© 2023, OliverMakesGames     [Copyright Act 1994](https://www.iponz.govt.nz/assets/pdf/Copyright/prosecution-policy-guidelines-for-copyright-and-trade-marks.pdf)
-```
+###### © 2023, OliverMakesGames     [Copyright Act 1994](https://www.iponz.govt.nz/assets/pdf/Copyright/prosecution-policy-guidelines-for-copyright-and-trade-marks.pdf)
+
