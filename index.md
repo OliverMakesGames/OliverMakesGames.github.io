@@ -12,14 +12,15 @@ description:   
   Lost Animals is a charming and engaging single player video game that allows players to experience the joys of running their own virtual farm. Set in a colourful and whimsical world full of secrets
 
 ```js
- Target platform will be windows-PC Steam
- We plan on porting lost animals to switch then linux & MacOS
-    
+
+
   Full release announcment Q3 2023
-  
 ```
 
 * * * 
+
+
+
 
 ### Check out our socials!
 
@@ -30,11 +31,12 @@ description:   
 | Twitter      | Q3                |Soon!   |
 | Discord      | Q4                |I need mods! (Application page link will go here soon)|
 
+
 * * *
 
 #### About us:
 
-######We're a small team intending to make a ton of great games! Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, we are ready to redefine indie gaming.
+###### We're a small team intending to make a ton of great games! Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, we are ready to redefine indie gaming.
 
 * * * 
 
