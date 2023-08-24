@@ -22,7 +22,7 @@ description:   
 
 | Social       | Ready?            | Status|
 |:-------------|:------------------|:------|
-| Steam        | Q3                | TBA Q3 |
+| Steam        | Q3                | TBA Late Q3 |
 | [YouTube](https://www.youtube.com/channel/UC0XdaCA-zPShdqIptghatgg)| Q3       |Soon!|
 | Twitter      | Q3                |Soon!   |
 | Discord      | Q4                |We'll need mods Late Q4 2023|
