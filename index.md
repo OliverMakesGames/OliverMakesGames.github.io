@@ -12,16 +12,12 @@ description:   
   Lost Animals is a charming and engaging single player video game that allows players to experience the joys of running their own virtual farm. Set in a colourful and whimsical world full of secrets
 
 ```js
-
-
   Full release announcment Q3 2023
 ```
 
 * * * 
-
-
-
-
+  
+  
 ### Check out our socials!
 
 | Social       | Ready?            | Status|
@@ -36,7 +32,6 @@ description:   
 
 ### About us:
 
-
 We're a small team intending to make a ton of great games! Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, we are ready to redefine indie gaming.
 
 ##### Free free to contact me at OliverMakesGames@gmail.com with any inquires or mod applications
@@ -44,4 +39,3 @@ We're a small team intending to make a ton of great games! Our team of dedicated
 * * * 
 
 ###### © 2023, OliverMakesGames     [Copyright Act 1994](https://www.iponz.govt.nz/assets/pdf/Copyright/prosecution-policy-guidelines-for-copyright-and-trade-marks.pdf)
-
