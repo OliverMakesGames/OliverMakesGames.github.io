@@ -27,18 +27,19 @@ description:   
 | Social       | Ready?            | Status|
 |:-------------|:------------------|:------|
 | Steam        | Q3                | TBA Q3 |
-| [YouTube](https://www.youtube.com/channel/UC0XdaCA-zPShdqIptghatgg)      | Q3                |Soon!|
+| [YouTube](https://www.youtube.com/channel/UC0XdaCA-zPShdqIptghatgg)| Q3       |Soon!|
 | Twitter      | Q3                |Soon!   |
-| Discord      | Q4                |I need mods! (Application page link will go here soon)|
+| Discord      | Q4                |We'll need mods Late Q4 2023|
 
 
 * * *
 
-#### About us:
+### About us:
 
 
-##### We're a small team intending to make a ton of great games! Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, we are ready to redefine indie gaming.
+We're a small team intending to make a ton of great games! Our team of dedicated creators is fueled by the desire to break barriers and push the limits of what's possible in gaming. From epic quests to mind-bending puzzles, we are ready to redefine indie gaming.
 
+##### Free free to contact me at OliverMakesGames@gmail.com with any inquires or mod applications
 
 * * * 
 
