@@ -31,7 +31,7 @@ description:   
 
 ### About us:
 
-<pre>      We are a compact yet passionate team with a profound ambition: to craft an abundance of exceptional games. Fueled by unwavering dedication, our team thrives on shattering boundaries and fully explore the realm of gaming. Whether embarking on grand adventures or devising perplexing puzzles, we stand poised to revolutionize the indie scene.<pre />
+      We are a compact yet passionate team with a profound ambition: to craft an abundance of exceptional games. Fueled by unwavering dedication, our team thrives on shattering boundaries and fully explore the realm of gaming. Whether embarking on grand adventures or devising perplexing puzzles, we stand poised to revolutionize the indie scene.
 
 <br />
 
