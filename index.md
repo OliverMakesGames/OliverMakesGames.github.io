@@ -33,6 +33,8 @@ description:   
 
 We are a compact yet passionate team with a profound ambition: to craft an abundance of exceptional games. Fueled by unwavering dedication, our team thrives on shattering boundaries and fully explore the realm of gaming. Whether embarking on grand adventures or devising perplexing puzzles, we stand poised to revolutionize the indie scene.
 
+
+
 ##### For all inquires or discord mod applications please contact me at OliverMakesGames@gmail.com
 
 * * * 
