@@ -31,7 +31,7 @@ description:   
 
 ### About us:
 
-We're a small team intending to make a ton of great games! Our  dedicated team is fueled by the desire to break barriers and push the limits of gaming of what's possible in gaming! From epic quests to mind-bending puzzles, we are ready to redefine indie gaming
+We are a compact yet passionate team with a profound ambition: to craft an abundance of exceptional games. Fueled by unwavering dedication, our team thrives on shattering boundaries and fully explore the realm of gaming. Whether embarking on grand adventures or devising perplexing puzzles, we stand poised to revolutionize the indie scene.
 
 ##### For all inquires or discord mod applications please contact me at OliverMakesGames@gmail.com
 
