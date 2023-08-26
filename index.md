@@ -33,8 +33,8 @@ description:   
 
 We're a small team intending to make a ton of great games! Our  dedicated team is fueled by the desire to break barriers and push the limits of gaming of what's possible in gaming! From epic quests to mind-bending puzzles, we are ready to redefine indie gaming
 
-###### For all inquires or discord mod applications please contact me at OliverMakesGames@gmail.com
+##### For all inquires or discord mod applications please contact me at OliverMakesGames@gmail.com
 
 * * * 
 
-##### © 2023, OliverMakesGames     [Copyright Act 1994](https://www.iponz.govt.nz/assets/pdf/Copyright/prosecution-policy-guidelines-for-copyright-and-trade-marks.pdf)
+###### © 2023, OliverMakesGames     [Copyright Act 1994](https://www.iponz.govt.nz/assets/pdf/Copyright/prosecution-policy-guidelines-for-copyright-and-trade-marks.pdf)
