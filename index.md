@@ -9,10 +9,10 @@ description:   
 
 ## Lost Animals: A Wholesome Farming Adventure
 
-  Lost Animals is a charming and engaging single player video game that allows players to experience the joys of running their own virtual farm. Set in a colourful and whimsical world full of secrets
+  Lost Animals is the working title for a charming and engaging single player video game that allows players to experience the joys of running their own virtual farm. Set in a colourful and whimsical world full of secrets
 
 ```js
-  Full release announcment Q3 2023
+  Full release announcment after Hiatus
 ```
 
 * * * 
@@ -22,20 +22,20 @@ description:   
 
 | Social       | Ready?            | Status|
 |:-------------|:-----------------:|:------|
-| Steam                                                               | Q3 | TBA Late Q3                     |
-| [YouTube](https://www.youtube.com/channel/UC0XdaCA-zPShdqIptghatgg) | Q3 | Soon!                           |
-| [Twitter](https://www.twitter.com/OliverMakesGame)                  | Q3 | Soon!                           |
-| Discord                                                             | Q4 | Soon! Mods needed, email below  |
+| Steam                                                               |    | TBA                             |
+| [YouTube](https://www.youtube.com/channel/UC0XdaCA-zPShdqIptghatgg) |    | Soon!                           |
+| [Twitter](https://www.twitter.com/OliverMakesGame)                  |    | Soon!                           |
+| Discord                                                             |    | Eventually!                     |
 
 * * *
 
 ### About us:
 
-       We are a compact yet passionate team with a profound ambition: to craft an abundance of exceptional games. Fueled by unwavering dedication, our team thrives on shattering boundaries and fully explore the realm of gaming. Whether embarking on grand adventures or devising perplexing puzzles, we stand poised to revolutionize the indie scene.
+       A passionate team with a profound ambition: to create exceptional games. Fueled by memes and lap cats we stand poised to hopefully maybe revolutionize the indie scene and explore the very depths of gaming itself.
 
 <br />
 
-##### For all inquires or discord mod applications please contact me at OliverMakesGames@gmail.com
+##### For all inquires please contact me at OliverMakesGames@gmail.com
 
 * * * 
 
